@@ -1,0 +1,1 @@
+This directory usually contains a virtual environment for your project. The bin folder within it includes executables for the virtual environment. The virtual environment is used to manage project-specific dependencies.
