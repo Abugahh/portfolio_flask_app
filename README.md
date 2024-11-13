@@ -79,3 +79,15 @@ When to Use:
 
     Jinja2: Use when you need to render HTML pages on the server with dynamic content, such as in a traditional web application.
     REST API: Use when you need to provide data and functionality to different types of clients (web, mobile, etc.) and allow them to interact with your application programmatically.
+
+
+
+
+What Is Dockerize ?
+https://medium.com/@swalperen3008/what-is-dockerize-and-dockerize-your-project-a-step-by-step-guide-899c48a34df6
+
+The term “Dockerize” means to adapt or configure an application or service to work within a Docker container. When you “Dockerize” an application, you are essentially preparing it for containerization using Docker, a containerization platform. The process of Dockerizing an application involves creating a Dockerfile, building a Docker image, and running the application as a Docker container.
+
+
+
+Version Control: Docker images can be versioned, allowing you to roll back to previous states of your application if issues arise during deployment.
